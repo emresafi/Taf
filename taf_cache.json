@@ -2408,5 +2408,15 @@
     "issue_hour": 13,
     "issue_min": 40,
     "captured_at": "2026-09-04T16:59:53.684360+00:00"
+  },
+  {
+    "station": "LTFH",
+    "raw": "TAF LTFH 042240Z 0500/0509 VRB02KT CAVOK",
+    "issue_year": 2026,
+    "issue_month": 9,
+    "issue_day": 4,
+    "issue_hour": 22,
+    "issue_min": 40,
+    "captured_at": "2026-09-04T23:05:14.109508+00:00"
   }
 ]
