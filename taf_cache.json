@@ -2458,5 +2458,15 @@
     "issue_hour": 7,
     "issue_min": 40,
     "captured_at": "2026-09-07T08:02:04.396925+00:00"
+  },
+  {
+    "station": "LTFH",
+    "raw": "TAF LTFH 071040Z 0712/0721 30012KT 9999 SCT036 BKN100 \n  BECMG 0714/0716 VRB02KT \n  PROB30 \n  TEMPO 0718/0721 27015KT -SHRA FEW025CB BKN030",
+    "issue_year": 2026,
+    "issue_month": 9,
+    "issue_day": 7,
+    "issue_hour": 10,
+    "issue_min": 40,
+    "captured_at": "2026-09-07T11:24:18.245052+00:00"
   }
 ]
