@@ -2518,5 +2518,15 @@
     "issue_hour": 16,
     "issue_min": 40,
     "captured_at": "2026-09-10T17:01:53.436928+00:00"
+  },
+  {
+    "station": "LTFH",
+    "raw": "TAF LTFH 110440Z 1106/1115 09009KT 9999 SCT033",
+    "issue_year": 2026,
+    "issue_month": 9,
+    "issue_day": 11,
+    "issue_hour": 4,
+    "issue_min": 40,
+    "captured_at": "2026-09-11T06:19:47.787828+00:00"
   }
 ]
