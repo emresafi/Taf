@@ -2578,5 +2578,15 @@
     "issue_hour": 10,
     "issue_min": 40,
     "captured_at": "2026-09-23T10:40:13.345473+00:00"
+  },
+  {
+    "station": "LTFH",
+    "raw": "LTFH 231340Z 2315/2324 32012KT 9999 FEW012 SCT030 BKN090 TEMPO 2315/2318 -TSRA SCT010 FEW023CB BKN027 TEMPO 2318/2322 30018G30KT 4000 -TSRA BR SCT008 FEW022CB BKN025",
+    "issue_year": 2026,
+    "issue_month": 9,
+    "issue_day": 23,
+    "issue_hour": 13,
+    "issue_min": 40,
+    "captured_at": "2026-09-23T13:44:11.927436+00:00"
   }
 ]
