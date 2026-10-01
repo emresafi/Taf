@@ -2718,5 +2718,15 @@
     "issue_hour": 16,
     "issue_min": 40,
     "captured_at": "2026-10-01T16:36:39.161758+00:00"
+  },
+  {
+    "station": "LTFH",
+    "raw": "LTFH 011940Z 0121/0206 VRB02KT 8000 BKN030 BKN080 TEMPO 0121/0201 -SHRA",
+    "issue_year": 2026,
+    "issue_month": 10,
+    "issue_day": 1,
+    "issue_hour": 19,
+    "issue_min": 40,
+    "captured_at": "2026-10-01T19:35:33.021643+00:00"
   }
 ]
